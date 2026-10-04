@@ -118,5 +118,5 @@
  "trades": 10,
  "wins": 1,
  "losses": 1,
- "halted": false
+ "halted": true
 }
