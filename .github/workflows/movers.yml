@@ -1,0 +1,34 @@
+name: Top movers scalp
+
+on:
+  schedule:
+    - cron: "2,17,32,47 * * * *"   # every 15 min, just after each 15m candle closes
+  workflow_dispatch:               # run by hand from the Actions tab
+
+permissions:
+  contents: write                  # lets the bot save open trades in state.json
+
+concurrency:
+  group: movers
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 6
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests
+      - run: python movers.py
+        env:
+          TG_TOKEN: ${{ secrets.TG_TOKEN }}
+          TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
+      - name: Save open trades
+        run: |
+          git config user.name "movers-bot"
+          git config user.email "movers-bot@users.noreply.github.com"
+          git add state.json
+          git diff --cached --quiet || (git commit -m "update trades" && git pull --rebase && git push)
