@@ -1,22 +1,6 @@
 {
  "open": [
   {
-   "sym": "FETUSDT",
-   "side": "LONG",
-   "chg": 12.761,
-   "vol": 27438992.78276,
-   "entry": 0.2494,
-   "sl0": 0.2420085714285714,
-   "stop": 0.2494,
-   "tp": 0.2641828571428572,
-   "be": 0.2567914285714286,
-   "sl_pct": 2.96,
-   "lev": 1.5,
-   "opened": 1791138600000,
-   "last_seen": 1791152100000,
-   "be_moved": true
-  },
-  {
    "sym": "XRPUSDT",
    "side": "LONG",
    "chg": 1.284,
@@ -29,14 +13,14 @@
    "sl_pct": 0.69,
    "lev": 7.0,
    "opened": 1791146700000,
-   "last_seen": 1791152100000,
+   "last_seen": 1791153000000,
    "be_moved": true
   }
  ],
  "day": "2026-10-04",
- "R": 8.0,
+ "R": 8.46,
  "trades": 10,
- "wins": 5,
+ "wins": 6,
  "losses": 2,
  "halted": true
 }
