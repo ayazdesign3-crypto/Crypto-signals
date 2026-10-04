@@ -26,18 +26,18 @@ from concurrent.futures import ThreadPoolExecutor
 import requests
 
 # ================= SETTINGS (safe to change) =================
-TOP_N           = 50      # 50 top gainers + 50 top losers = 100 coins
+TOP_N           = 100     # 100 top gainers + 100 top losers
 MIN_VOL_USD     = 5e6     # skip coins under $5M 24h volume
 RISK_PCT        = 5.0     # account % lost if stop is hit
 RR              = 2.0     # take profit at 2R
 MAX_LEV         = 10
 MIN_SL_PCT      = 0.4
-MAX_SL_PCT      = 3.0
-MAX_NEW_PER_RUN = 3       # max new entry alerts per scan
+MAX_SL_PCT      = 4.0
+MAX_NEW_PER_RUN = 5       # max new entry alerts per scan
 MAX_HOLD        = 16      # 15m candles (= 4 hours), then exit at market
 DAILY_TARGET_R  = 4.0     # 4R = +20%
 DAILY_STOP_R    = -2.0    # -2R = -10%
-MAX_TRADES_DAY  = 4
+MAX_TRADES_DAY  = 10
 ENFORCE_DAILY   = True    # stop new alerts once a daily limit is reached
 # =============================================================
 
@@ -253,7 +253,7 @@ def main():
     limit = None
     if st["R"] >= DAILY_TARGET_R: limit = "🎯 Daily target reached (+20%). No more entries today."
     elif st["R"] <= DAILY_STOP_R: limit = "🛑 Daily max loss reached (-10%). Stop trading today."
-    elif st["trades"] >= MAX_TRADES_DAY: limit = "⏸ 4 trades taken today. No more entries."
+    elif st["trades"] >= MAX_TRADES_DAY: limit = "⏸ Max trades taken today. No more entries."
     if ENFORCE_DAILY and limit:
         if not st["halted"]:
             send(limit)
