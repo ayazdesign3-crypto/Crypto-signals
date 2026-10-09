@@ -13,7 +13,7 @@
    "sl_pct": 3.0,
    "lev": 1.5,
    "opened": 1791504000000,
-   "last_seen": 1791510300000,
+   "last_seen": 1791511200000,
    "be_moved": false
   },
   {
@@ -29,7 +29,7 @@
    "sl_pct": 0.4,
    "lev": 10,
    "opened": 1791504000000,
-   "last_seen": 1791510300000,
+   "last_seen": 1791511200000,
    "be_moved": true
   },
   {
@@ -45,7 +45,7 @@
    "sl_pct": 0.76,
    "lev": 6.5,
    "opened": 1791504000000,
-   "last_seen": 1791510300000,
+   "last_seen": 1791511200000,
    "be_moved": false
   },
   {
@@ -61,23 +61,7 @@
    "sl_pct": 0.4,
    "lev": 10,
    "opened": 1791505800000,
-   "last_seen": 1791510300000,
-   "be_moved": false
-  },
-  {
-   "sym": "SOLUSDT",
-   "side": "SHORT",
-   "chg": -6.616,
-   "vol": 398527832.13936,
-   "entry": 109.01,
-   "sl0": 109.68957142857143,
-   "stop": 109.68957142857143,
-   "tp": 107.65085714285716,
-   "be": 108.33042857142858,
-   "sl_pct": 0.62,
-   "lev": 8.0,
-   "opened": 1791507600000,
-   "last_seen": 1791510300000,
+   "last_seen": 1791511200000,
    "be_moved": false
   },
   {
@@ -93,14 +77,14 @@
    "sl_pct": 1.5,
    "lev": 3.0,
    "opened": 1791507600000,
-   "last_seen": 1791510300000,
+   "last_seen": 1791511200000,
    "be_moved": true
   }
  ],
  "day": "2026-10-09",
- "R": -1.0,
+ "R": -2.0,
  "trades": 10,
  "wins": 1,
- "losses": 3,
+ "losses": 4,
  "halted": true
 }
