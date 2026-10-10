@@ -1,22 +1,6 @@
 {
  "open": [
   {
-   "sym": "ATOMUSDT",
-   "side": "LONG",
-   "chg": 16.282,
-   "vol": 23278470.71472,
-   "entry": 2.067,
-   "sl0": 2.0507285714285715,
-   "stop": 2.0507285714285715,
-   "tp": 2.0995428571428576,
-   "be": 2.083271428571429,
-   "sl_pct": 0.79,
-   "lev": 6.0,
-   "opened": 1791590400000,
-   "last_seen": 1791590400000,
-   "be_moved": false
-  },
-  {
    "sym": "TRXUSDT",
    "side": "SHORT",
    "chg": -0.21,
@@ -29,7 +13,7 @@
    "sl_pct": 0.4,
    "lev": 10,
    "opened": 1791590400000,
-   "last_seen": 1791590400000,
+   "last_seen": 1791592200000,
    "be_moved": false
   },
   {
@@ -45,7 +29,7 @@
    "sl_pct": 0.89,
    "lev": 5.5,
    "opened": 1791590400000,
-   "last_seen": 1791590400000,
+   "last_seen": 1791592200000,
    "be_moved": false
   },
   {
@@ -61,30 +45,14 @@
    "sl_pct": 1.17,
    "lev": 4.0,
    "opened": 1791590400000,
-   "last_seen": 1791590400000,
-   "be_moved": false
-  },
-  {
-   "sym": "SANDUSDT",
-   "side": "LONG",
-   "chg": 3.187,
-   "vol": 12700482.35763,
-   "entry": 0.06875,
-   "sl0": 0.06819992857142858,
-   "stop": 0.06819992857142858,
-   "tp": 0.06985014285714286,
-   "be": 0.06930007142857143,
-   "sl_pct": 0.8,
-   "lev": 6.0,
-   "opened": 1791590400000,
-   "last_seen": 1791590400000,
+   "last_seen": 1791592200000,
    "be_moved": false
   }
  ],
  "day": "2026-10-10",
- "R": 0.0,
+ "R": -2.0,
  "trades": 5,
  "wins": 0,
- "losses": 0,
- "halted": false
+ "losses": 2,
+ "halted": true
 }
