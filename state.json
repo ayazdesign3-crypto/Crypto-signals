@@ -1,22 +1,6 @@
 {
  "open": [
   {
-   "sym": "MARSCOINUSDT",
-   "side": "SHORT",
-   "chg": -1.935,
-   "vol": 6016165.31888,
-   "entry": 0.0912,
-   "sl0": 0.09266857142857143,
-   "stop": 0.09266857142857143,
-   "tp": 0.08826285714285714,
-   "be": 0.08973142857142857,
-   "sl_pct": 1.61,
-   "lev": 3.0,
-   "opened": 1791602100000,
-   "last_seen": 1791608400000,
-   "be_moved": false
-  },
-  {
    "sym": "UUSDT",
    "side": "LONG",
    "chg": 0.01,
@@ -29,7 +13,7 @@
    "sl_pct": 0.4,
    "lev": 10,
    "opened": 1791603000000,
-   "last_seen": 1791608400000,
+   "last_seen": 1791609300000,
    "be_moved": false
   },
   {
@@ -45,14 +29,14 @@
    "sl_pct": 0.9,
    "lev": 5.5,
    "opened": 1791603900000,
-   "last_seen": 1791608400000,
+   "last_seen": 1791609300000,
    "be_moved": false
   }
  ],
  "day": "2026-10-10",
- "R": -2.25,
+ "R": -3.25,
  "trades": 10,
  "wins": 2,
- "losses": 5,
+ "losses": 6,
  "halted": true
 }
