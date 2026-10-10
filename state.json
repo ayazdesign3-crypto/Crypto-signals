@@ -13,7 +13,7 @@
    "sl_pct": 1.61,
    "lev": 3.0,
    "opened": 1791602100000,
-   "last_seen": 1791607500000,
+   "last_seen": 1791608400000,
    "be_moved": false
   },
   {
@@ -29,7 +29,7 @@
    "sl_pct": 0.4,
    "lev": 10,
    "opened": 1791603000000,
-   "last_seen": 1791607500000,
+   "last_seen": 1791608400000,
    "be_moved": false
   },
   {
@@ -45,30 +45,14 @@
    "sl_pct": 0.9,
    "lev": 5.5,
    "opened": 1791603900000,
-   "last_seen": 1791607500000,
-   "be_moved": false
-  },
-  {
-   "sym": "LTCUSDT",
-   "side": "SHORT",
-   "chg": -0.564,
-   "vol": 15215150.86289,
-   "entry": 63.52,
-   "sl0": 63.774080000000005,
-   "stop": 63.774080000000005,
-   "tp": 63.01184,
-   "be": 63.26592,
-   "sl_pct": 0.4,
-   "lev": 10,
-   "opened": 1791603900000,
-   "last_seen": 1791607500000,
+   "last_seen": 1791608400000,
    "be_moved": false
   }
  ],
  "day": "2026-10-10",
- "R": -1.25,
+ "R": -2.25,
  "trades": 10,
  "wins": 2,
- "losses": 4,
+ "losses": 5,
  "halted": true
 }
