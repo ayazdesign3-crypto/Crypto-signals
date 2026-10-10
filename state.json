@@ -13,7 +13,7 @@
    "sl_pct": 0.4,
    "lev": 10,
    "opened": 1791590400000,
-   "last_seen": 1791603000000,
+   "last_seen": 1791603900000,
    "be_moved": false
   },
   {
@@ -29,7 +29,7 @@
    "sl_pct": 1.61,
    "lev": 3.0,
    "opened": 1791602100000,
-   "last_seen": 1791603000000,
+   "last_seen": 1791603900000,
    "be_moved": false
   },
   {
@@ -45,7 +45,7 @@
    "sl_pct": 0.4,
    "lev": 10,
    "opened": 1791603000000,
-   "last_seen": 1791603000000,
+   "last_seen": 1791603900000,
    "be_moved": false
   },
   {
@@ -61,13 +61,45 @@
    "sl_pct": 1.15,
    "lev": 4.0,
    "opened": 1791603000000,
-   "last_seen": 1791603000000,
+   "last_seen": 1791603900000,
+   "be_moved": false
+  },
+  {
+   "sym": "DOTUSDT",
+   "side": "LONG",
+   "chg": 9.714,
+   "vol": 18940818.20384,
+   "entry": 1.269,
+   "sl0": 1.2575357142857142,
+   "stop": 1.2575357142857142,
+   "tp": 1.2919285714285713,
+   "be": 1.2804642857142856,
+   "sl_pct": 0.9,
+   "lev": 5.5,
+   "opened": 1791603900000,
+   "last_seen": 1791603900000,
+   "be_moved": false
+  },
+  {
+   "sym": "LTCUSDT",
+   "side": "SHORT",
+   "chg": -0.564,
+   "vol": 15215150.86289,
+   "entry": 63.52,
+   "sl0": 63.774080000000005,
+   "stop": 63.774080000000005,
+   "tp": 63.01184,
+   "be": 63.26592,
+   "sl_pct": 0.4,
+   "lev": 10,
+   "opened": 1791603900000,
+   "last_seen": 1791603900000,
    "be_moved": false
   }
  ],
  "day": "2026-10-10",
  "R": -1.0,
- "trades": 8,
+ "trades": 10,
  "wins": 1,
  "losses": 3,
  "halted": true
