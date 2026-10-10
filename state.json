@@ -1,22 +1,6 @@
 {
  "open": [
   {
-   "sym": "TRXUSDT",
-   "side": "SHORT",
-   "chg": -0.21,
-   "vol": 23213334.71639,
-   "entry": 0.3319,
-   "sl0": 0.33322759999999996,
-   "stop": 0.33322759999999996,
-   "tp": 0.3292448,
-   "be": 0.3305724,
-   "sl_pct": 0.4,
-   "lev": 10,
-   "opened": 1791590400000,
-   "last_seen": 1791603900000,
-   "be_moved": false
-  },
-  {
    "sym": "MARSCOINUSDT",
    "side": "SHORT",
    "chg": -1.935,
@@ -29,7 +13,7 @@
    "sl_pct": 1.61,
    "lev": 3.0,
    "opened": 1791602100000,
-   "last_seen": 1791603900000,
+   "last_seen": 1791605700000,
    "be_moved": false
   },
   {
@@ -45,7 +29,7 @@
    "sl_pct": 0.4,
    "lev": 10,
    "opened": 1791603000000,
-   "last_seen": 1791603900000,
+   "last_seen": 1791605700000,
    "be_moved": false
   },
   {
@@ -61,7 +45,7 @@
    "sl_pct": 1.15,
    "lev": 4.0,
    "opened": 1791603000000,
-   "last_seen": 1791603900000,
+   "last_seen": 1791605700000,
    "be_moved": false
   },
   {
@@ -77,7 +61,7 @@
    "sl_pct": 0.9,
    "lev": 5.5,
    "opened": 1791603900000,
-   "last_seen": 1791603900000,
+   "last_seen": 1791605700000,
    "be_moved": false
   },
   {
@@ -93,14 +77,14 @@
    "sl_pct": 0.4,
    "lev": 10,
    "opened": 1791603900000,
-   "last_seen": 1791603900000,
+   "last_seen": 1791605700000,
    "be_moved": false
   }
  ],
  "day": "2026-10-10",
- "R": -1.0,
+ "R": -0.25,
  "trades": 10,
- "wins": 1,
+ "wins": 2,
  "losses": 3,
  "halted": true
 }
