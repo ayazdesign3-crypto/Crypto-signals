@@ -1,22 +1,6 @@
 {
  "open": [
   {
-   "sym": "TRXUSDT",
-   "side": "SHORT",
-   "chg": -0.362,
-   "vol": 16285877.25895,
-   "entry": 0.3307,
-   "sl0": 0.3320228,
-   "stop": 0.3320228,
-   "tp": 0.32805439999999997,
-   "be": 0.3293772,
-   "sl_pct": 0.4,
-   "lev": 10,
-   "opened": 1791676800000,
-   "last_seen": 1791690300000,
-   "be_moved": false
-  },
-  {
    "sym": "QNTUSDT",
    "side": "SHORT",
    "chg": -4.06,
@@ -29,14 +13,14 @@
    "sl_pct": 1.24,
    "lev": 4.0,
    "opened": 1791678600000,
-   "last_seen": 1791690300000,
+   "last_seen": 1791692100000,
    "be_moved": false
   }
  ],
  "day": "2026-10-11",
- "R": -7.92,
+ "R": -7.62,
  "trades": 10,
- "wins": 0,
+ "wins": 1,
  "losses": 8,
  "halted": true
 }
