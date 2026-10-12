@@ -13,7 +13,7 @@
    "sl_pct": 0.4,
    "lev": 10,
    "opened": 1791763200000,
-   "last_seen": 1791766800000,
+   "last_seen": 1791767700000,
    "be_moved": false
   },
   {
@@ -29,24 +29,8 @@
    "sl_pct": 1.01,
    "lev": 4.5,
    "opened": 1791763200000,
-   "last_seen": 1791766800000,
+   "last_seen": 1791767700000,
    "be_moved": false
-  },
-  {
-   "sym": "LINKUSDT",
-   "side": "LONG",
-   "chg": 2.712,
-   "vol": 16718417.18738,
-   "entry": 13.379,
-   "sl0": 13.319957142857142,
-   "stop": 13.379,
-   "tp": 13.497085714285715,
-   "be": 13.438042857142857,
-   "sl_pct": 0.44,
-   "lev": 10,
-   "opened": 1791763200000,
-   "last_seen": 1791766800000,
-   "be_moved": true
   },
   {
    "sym": "NEARUSDT",
@@ -61,7 +45,7 @@
    "sl_pct": 1.52,
    "lev": 3.0,
    "opened": 1791765000000,
-   "last_seen": 1791766800000,
+   "last_seen": 1791767700000,
    "be_moved": false
   }
  ],
