@@ -13,30 +13,14 @@
    "sl_pct": 2.07,
    "lev": 2.0,
    "opened": 1791936000000,
-   "last_seen": 1791944100000,
-   "be_moved": false
-  },
-  {
-   "sym": "XAUTUSDT",
-   "side": "SHORT",
-   "chg": -0.148,
-   "vol": 8472970.394539,
-   "entry": 4156.34,
-   "sl0": 4172.96536,
-   "stop": 4172.96536,
-   "tp": 4123.08928,
-   "be": 4139.71464,
-   "sl_pct": 0.4,
-   "lev": 10,
-   "opened": 1791938700000,
-   "last_seen": 1791944100000,
+   "last_seen": 1791945900000,
    "be_moved": false
   }
  ],
  "day": "2026-10-14",
- "R": -5.39,
+ "R": -6.08,
  "trades": 9,
  "wins": 0,
- "losses": 6,
+ "losses": 7,
  "halted": true
 }
