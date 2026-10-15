@@ -13,23 +13,7 @@
    "sl_pct": 0.83,
    "lev": 6.0,
    "opened": 1792022400000,
-   "last_seen": 1792022400000,
-   "be_moved": false
-  },
-  {
-   "sym": "SPCXBUSDT",
-   "side": "SHORT",
-   "chg": -4.535,
-   "vol": 38270969.30909,
-   "entry": 150.49,
-   "sl0": 151.16564285714287,
-   "stop": 151.16564285714287,
-   "tp": 149.1387142857143,
-   "be": 149.81435714285715,
-   "sl_pct": 0.45,
-   "lev": 10,
-   "opened": 1792022400000,
-   "last_seen": 1792022400000,
+   "last_seen": 1792025100000,
    "be_moved": false
   },
   {
@@ -45,7 +29,7 @@
    "sl_pct": 0.81,
    "lev": 6.0,
    "opened": 1792022400000,
-   "last_seen": 1792022400000,
+   "last_seen": 1792025100000,
    "be_moved": false
   },
   {
@@ -61,30 +45,14 @@
    "sl_pct": 0.84,
    "lev": 5.5,
    "opened": 1792022400000,
-   "last_seen": 1792022400000,
-   "be_moved": false
-  },
-  {
-   "sym": "ZROUSDT",
-   "side": "SHORT",
-   "chg": -6.482,
-   "vol": 13324162.76666,
-   "entry": 1.888,
-   "sl0": 1.9144,
-   "stop": 1.9144,
-   "tp": 1.8351999999999995,
-   "be": 1.8615999999999997,
-   "sl_pct": 1.4,
-   "lev": 3.5,
-   "opened": 1792022400000,
-   "last_seen": 1792022400000,
+   "last_seen": 1792025100000,
    "be_moved": false
   }
  ],
  "day": "2026-10-15",
- "R": 0.0,
+ "R": -2.0,
  "trades": 5,
  "wins": 0,
- "losses": 0,
- "halted": false
+ "losses": 2,
+ "halted": true
 }
