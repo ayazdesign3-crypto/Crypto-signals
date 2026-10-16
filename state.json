@@ -1,22 +1,6 @@
 {
  "open": [
   {
-   "sym": "ZECUSDT",
-   "side": "LONG",
-   "chg": 7.514,
-   "vol": 295698777.99111,
-   "entry": 1229.65,
-   "sl0": 1217.1010714285715,
-   "stop": 1217.1010714285715,
-   "tp": 1254.7478571428574,
-   "be": 1242.1989285714287,
-   "sl_pct": 1.02,
-   "lev": 4.5,
-   "opened": 1792109700000,
-   "last_seen": 1792115100000,
-   "be_moved": false
-  },
-  {
    "sym": "NEARUSDT",
    "side": "LONG",
    "chg": 10.415,
@@ -29,7 +13,7 @@
    "sl_pct": 1.53,
    "lev": 3.0,
    "opened": 1792109700000,
-   "last_seen": 1792115100000,
+   "last_seen": 1792116900000,
    "be_moved": false
   },
   {
@@ -39,14 +23,14 @@
    "vol": 39306323.836,
    "entry": 0.3333,
    "sl0": 0.3319668,
-   "stop": 0.3319668,
+   "stop": 0.3333,
    "tp": 0.33596639999999994,
    "be": 0.33463319999999996,
    "sl_pct": 0.4,
    "lev": 10,
    "opened": 1792109700000,
-   "last_seen": 1792115100000,
-   "be_moved": false
+   "last_seen": 1792116900000,
+   "be_moved": true
   },
   {
    "sym": "PUMPUSDT",
@@ -61,7 +45,7 @@
    "sl_pct": 1.03,
    "lev": 4.5,
    "opened": 1792114200000,
-   "last_seen": 1792115100000,
+   "last_seen": 1792116900000,
    "be_moved": false
   },
   {
@@ -77,7 +61,7 @@
    "sl_pct": 0.89,
    "lev": 5.5,
    "opened": 1792114200000,
-   "last_seen": 1792115100000,
+   "last_seen": 1792116900000,
    "be_moved": false
   },
   {
@@ -93,14 +77,14 @@
    "sl_pct": 1.96,
    "lev": 2.5,
    "opened": 1792114200000,
-   "last_seen": 1792115100000,
+   "last_seen": 1792116900000,
    "be_moved": false
   }
  ],
  "day": "2026-10-16",
- "R": -1.0,
+ "R": -2.0,
  "trades": 10,
  "wins": 1,
- "losses": 3,
+ "losses": 4,
  "halted": true
 }
