@@ -1,22 +1,6 @@
 {
  "open": [
   {
-   "sym": "TRXUSDT",
-   "side": "LONG",
-   "chg": 0.271,
-   "vol": 39306323.836,
-   "entry": 0.3333,
-   "sl0": 0.3319668,
-   "stop": 0.3333,
-   "tp": 0.33596639999999994,
-   "be": 0.33463319999999996,
-   "sl_pct": 0.4,
-   "lev": 10,
-   "opened": 1792109700000,
-   "last_seen": 1792122300000,
-   "be_moved": true
-  },
-  {
    "sym": "OPUSDT",
    "side": "SHORT",
    "chg": -3.251,
@@ -29,14 +13,14 @@
    "sl_pct": 1.96,
    "lev": 2.5,
    "opened": 1792114200000,
-   "last_seen": 1792122300000,
+   "last_seen": 1792124100000,
    "be_moved": false
   }
  ],
  "day": "2026-10-16",
- "R": -3.28,
+ "R": -1.33,
  "trades": 10,
- "wins": 1,
+ "wins": 2,
  "losses": 6,
  "halted": true
 }
