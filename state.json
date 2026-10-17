@@ -13,7 +13,7 @@
    "sl_pct": 0.4,
    "lev": 10,
    "opened": 1792196100000,
-   "last_seen": 1792200600000,
+   "last_seen": 1792201500000,
    "be_moved": false
   },
   {
@@ -29,7 +29,7 @@
    "sl_pct": 1.59,
    "lev": 3.0,
    "opened": 1792196100000,
-   "last_seen": 1792200600000,
+   "last_seen": 1792201500000,
    "be_moved": false
   },
   {
@@ -45,7 +45,7 @@
    "sl_pct": 0.4,
    "lev": 10,
    "opened": 1792196100000,
-   "last_seen": 1792200600000,
+   "last_seen": 1792201500000,
    "be_moved": false
   },
   {
@@ -61,7 +61,7 @@
    "sl_pct": 2.25,
    "lev": 2.0,
    "opened": 1792196100000,
-   "last_seen": 1792200600000,
+   "last_seen": 1792201500000,
    "be_moved": false
   },
   {
@@ -77,7 +77,7 @@
    "sl_pct": 1.01,
    "lev": 4.5,
    "opened": 1792196100000,
-   "last_seen": 1792200600000,
+   "last_seen": 1792201500000,
    "be_moved": false
   },
   {
@@ -93,7 +93,7 @@
    "sl_pct": 0.4,
    "lev": 10,
    "opened": 1792198800000,
-   "last_seen": 1792200600000,
+   "last_seen": 1792201500000,
    "be_moved": false
   },
   {
@@ -109,7 +109,7 @@
    "sl_pct": 0.88,
    "lev": 5.5,
    "opened": 1792198800000,
-   "last_seen": 1792200600000,
+   "last_seen": 1792201500000,
    "be_moved": false
   },
   {
@@ -125,7 +125,7 @@
    "sl_pct": 1.48,
    "lev": 3.0,
    "opened": 1792198800000,
-   "last_seen": 1792200600000,
+   "last_seen": 1792201500000,
    "be_moved": false
   },
   {
@@ -135,14 +135,14 @@
    "vol": 30485292.79596,
    "entry": 274.6,
    "sl0": 276.00857142857143,
-   "stop": 276.00857142857143,
+   "stop": 274.6,
    "tp": 271.7828571428572,
    "be": 273.1914285714286,
    "sl_pct": 0.51,
    "lev": 9.5,
    "opened": 1792198800000,
-   "last_seen": 1792200600000,
-   "be_moved": false
+   "last_seen": 1792201500000,
+   "be_moved": true
   },
   {
    "sym": "AVAXUSDT",
@@ -157,7 +157,7 @@
    "sl_pct": 0.4,
    "lev": 10,
    "opened": 1792198800000,
-   "last_seen": 1792200600000,
+   "last_seen": 1792201500000,
    "be_moved": false
   }
  ],
