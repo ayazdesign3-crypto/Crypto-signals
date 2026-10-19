@@ -1,22 +1,6 @@
 {
  "open": [
   {
-   "sym": "HBARUSDT",
-   "side": "SHORT",
-   "chg": -2.026,
-   "vol": 28049083.71853,
-   "entry": 0.08406,
-   "sl0": 0.08478064285714286,
-   "stop": 0.08478064285714286,
-   "tp": 0.08261871428571427,
-   "be": 0.08333935714285713,
-   "sl_pct": 0.86,
-   "lev": 5.5,
-   "opened": 1792374300000,
-   "last_seen": 1792386900000,
-   "be_moved": false
-  },
-  {
    "sym": "BTCUSDT",
    "side": "LONG",
    "chg": 0.818,
@@ -29,7 +13,7 @@
    "sl_pct": 0.46,
    "lev": 10,
    "opened": 1792377900000,
-   "last_seen": 1792386900000,
+   "last_seen": 1792388700000,
    "be_moved": false
   },
   {
@@ -45,7 +29,7 @@
    "sl_pct": 1.02,
    "lev": 4.5,
    "opened": 1792377900000,
-   "last_seen": 1792386900000,
+   "last_seen": 1792388700000,
    "be_moved": true
   },
   {
@@ -61,14 +45,14 @@
    "sl_pct": 0.81,
    "lev": 6.0,
    "opened": 1792377900000,
-   "last_seen": 1792386900000,
+   "last_seen": 1792388700000,
    "be_moved": false
   }
  ],
  "day": "2026-10-19",
- "R": 5.85,
+ "R": 5.66,
  "trades": 10,
  "wins": 3,
- "losses": 1,
+ "losses": 2,
  "halted": true
 }
