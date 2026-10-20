@@ -7,30 +7,14 @@
    "vol": 7666799.34205,
    "entry": 0.0541,
    "sl0": 0.054630000000000005,
-   "stop": 0.054630000000000005,
+   "stop": 0.0541,
    "tp": 0.05304,
    "be": 0.05357,
    "sl_pct": 0.98,
    "lev": 5.0,
    "opened": 1792453500000,
-   "last_seen": 1792458000000,
-   "be_moved": false
-  },
-  {
-   "sym": "PEPEUSDT",
-   "side": "LONG",
-   "chg": 3.474,
-   "vol": 24989671.13471346,
-   "entry": 4.17e-06,
-   "sl0": 4.1275e-06,
-   "stop": 4.1275e-06,
-   "tp": 4.255e-06,
-   "be": 4.2125e-06,
-   "sl_pct": 1.02,
-   "lev": 4.5,
-   "opened": 1792456200000,
-   "last_seen": 1792456200000,
-   "be_moved": false
+   "last_seen": 1792460700000,
+   "be_moved": true
   },
   {
    "sym": "SOXLBUSDT",
@@ -45,7 +29,7 @@
    "sl_pct": 3.65,
    "lev": 1.0,
    "opened": 1792456200000,
-   "last_seen": 1792456200000,
+   "last_seen": 1792460700000,
    "be_moved": false
   },
   {
@@ -61,14 +45,14 @@
    "sl_pct": 2.2,
    "lev": 2.0,
    "opened": 1792456200000,
-   "last_seen": 1792458000000,
+   "last_seen": 1792460700000,
    "be_moved": false
   }
  ],
  "day": "2026-10-20",
- "R": 3.0,
+ "R": 2.0,
  "trades": 10,
  "wins": 3,
- "losses": 3,
+ "losses": 4,
  "halted": true
 }
