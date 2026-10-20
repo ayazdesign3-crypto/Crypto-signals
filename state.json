@@ -1,22 +1,6 @@
 {
  "open": [
   {
-   "sym": "WLFIUSDT",
-   "side": "SHORT",
-   "chg": -5.088,
-   "vol": 7666799.34205,
-   "entry": 0.0541,
-   "sl0": 0.054630000000000005,
-   "stop": 0.0541,
-   "tp": 0.05304,
-   "be": 0.05357,
-   "sl_pct": 0.98,
-   "lev": 5.0,
-   "opened": 1792453500000,
-   "last_seen": 1792466100000,
-   "be_moved": true
-  },
-  {
    "sym": "SOXLBUSDT",
    "side": "SHORT",
    "chg": -2.257,
@@ -29,7 +13,7 @@
    "sl_pct": 3.65,
    "lev": 1.0,
    "opened": 1792456200000,
-   "last_seen": 1792466100000,
+   "last_seen": 1792468800000,
    "be_moved": false
   }
  ],
