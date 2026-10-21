@@ -13,7 +13,7 @@
    "sl_pct": 0.4,
    "lev": 10,
    "opened": 1792539900000,
-   "last_seen": 1792545300000,
+   "last_seen": 1792547100000,
    "be_moved": false
   },
   {
@@ -23,14 +23,14 @@
    "vol": 109043864.41083,
    "entry": 1.3358,
    "sl0": 1.3304568,
-   "stop": 1.3304568,
+   "stop": 1.3358,
    "tp": 1.3464864,
    "be": 1.3411432,
    "sl_pct": 0.4,
    "lev": 10,
    "opened": 1792539900000,
-   "last_seen": 1792545300000,
-   "be_moved": false
+   "last_seen": 1792547100000,
+   "be_moved": true
   },
   {
    "sym": "BNBUSDT",
@@ -45,7 +45,7 @@
    "sl_pct": 0.4,
    "lev": 10,
    "opened": 1792539900000,
-   "last_seen": 1792545300000,
+   "last_seen": 1792547100000,
    "be_moved": false
   },
   {
@@ -61,7 +61,7 @@
    "sl_pct": 2.0,
    "lev": 2.5,
    "opened": 1792542600000,
-   "last_seen": 1792545300000,
+   "last_seen": 1792547100000,
    "be_moved": false
   },
   {
@@ -77,7 +77,7 @@
    "sl_pct": 0.85,
    "lev": 5.5,
    "opened": 1792542600000,
-   "last_seen": 1792545300000,
+   "last_seen": 1792547100000,
    "be_moved": false
   },
   {
@@ -87,14 +87,14 @@
    "vol": 41789474.8913,
    "entry": 81.27,
    "sl0": 80.2665,
-   "stop": 80.2665,
+   "stop": 81.27,
    "tp": 83.277,
    "be": 82.2735,
    "sl_pct": 1.23,
    "lev": 4.0,
    "opened": 1792542600000,
-   "last_seen": 1792545300000,
-   "be_moved": false
+   "last_seen": 1792547100000,
+   "be_moved": true
   },
   {
    "sym": "UNIUSDT",
@@ -109,7 +109,7 @@
    "sl_pct": 2.91,
    "lev": 1.5,
    "opened": 1792542600000,
-   "last_seen": 1792545300000,
+   "last_seen": 1792547100000,
    "be_moved": false
   },
   {
@@ -125,7 +125,7 @@
    "sl_pct": 1.92,
    "lev": 2.5,
    "opened": 1792542600000,
-   "last_seen": 1792545300000,
+   "last_seen": 1792547100000,
    "be_moved": false
   }
  ],
