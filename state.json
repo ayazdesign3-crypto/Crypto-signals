@@ -13,7 +13,7 @@
    "sl_pct": 0.4,
    "lev": 10,
    "opened": 1792539900000,
-   "last_seen": 1792542600000,
+   "last_seen": 1792545300000,
    "be_moved": false
   },
   {
@@ -29,7 +29,7 @@
    "sl_pct": 0.4,
    "lev": 10,
    "opened": 1792539900000,
-   "last_seen": 1792542600000,
+   "last_seen": 1792545300000,
    "be_moved": false
   },
   {
@@ -45,23 +45,7 @@
    "sl_pct": 0.4,
    "lev": 10,
    "opened": 1792539900000,
-   "last_seen": 1792542600000,
-   "be_moved": false
-  },
-  {
-   "sym": "DOGEUSDT",
-   "side": "LONG",
-   "chg": 2.724,
-   "vol": 30408408.76174,
-   "entry": 0.08187,
-   "sl0": 0.08154252,
-   "stop": 0.08154252,
-   "tp": 0.08252496000000001,
-   "be": 0.08219748,
-   "sl_pct": 0.4,
-   "lev": 10,
-   "opened": 1792539900000,
-   "last_seen": 1792542600000,
+   "last_seen": 1792545300000,
    "be_moved": false
   },
   {
@@ -77,7 +61,7 @@
    "sl_pct": 2.0,
    "lev": 2.5,
    "opened": 1792542600000,
-   "last_seen": 1792542600000,
+   "last_seen": 1792545300000,
    "be_moved": false
   },
   {
@@ -93,7 +77,7 @@
    "sl_pct": 0.85,
    "lev": 5.5,
    "opened": 1792542600000,
-   "last_seen": 1792542600000,
+   "last_seen": 1792545300000,
    "be_moved": false
   },
   {
@@ -109,7 +93,7 @@
    "sl_pct": 1.23,
    "lev": 4.0,
    "opened": 1792542600000,
-   "last_seen": 1792542600000,
+   "last_seen": 1792545300000,
    "be_moved": false
   },
   {
@@ -125,7 +109,7 @@
    "sl_pct": 2.91,
    "lev": 1.5,
    "opened": 1792542600000,
-   "last_seen": 1792542600000,
+   "last_seen": 1792545300000,
    "be_moved": false
   },
   {
@@ -141,7 +125,7 @@
    "sl_pct": 1.92,
    "lev": 2.5,
    "opened": 1792542600000,
-   "last_seen": 1792542600000,
+   "last_seen": 1792545300000,
    "be_moved": false
   }
  ],
@@ -150,5 +134,5 @@
  "trades": 10,
  "wins": 1,
  "losses": 0,
- "halted": false
+ "halted": true
 }
