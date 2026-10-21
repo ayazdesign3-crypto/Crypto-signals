@@ -13,24 +13,8 @@
    "sl_pct": 2.0,
    "lev": 2.5,
    "opened": 1792542600000,
-   "last_seen": 1792553400000,
+   "last_seen": 1792555200000,
    "be_moved": false
-  },
-  {
-   "sym": "HYPEUSDT",
-   "side": "LONG",
-   "chg": 2.847,
-   "vol": 41789474.8913,
-   "entry": 81.27,
-   "sl0": 80.2665,
-   "stop": 81.27,
-   "tp": 83.277,
-   "be": 82.2735,
-   "sl_pct": 1.23,
-   "lev": 4.0,
-   "opened": 1792542600000,
-   "last_seen": 1792553400000,
-   "be_moved": true
   },
   {
    "sym": "UNIUSDT",
@@ -45,7 +29,7 @@
    "sl_pct": 2.91,
    "lev": 1.5,
    "opened": 1792542600000,
-   "last_seen": 1792553400000,
+   "last_seen": 1792555200000,
    "be_moved": false
   },
   {
@@ -61,7 +45,7 @@
    "sl_pct": 1.92,
    "lev": 2.5,
    "opened": 1792542600000,
-   "last_seen": 1792553400000,
+   "last_seen": 1792555200000,
    "be_moved": false
   }
  ],
