@@ -1,22 +1,6 @@
 {
  "open": [
   {
-   "sym": "BNBUSDT",
-   "side": "LONG",
-   "chg": 1.526,
-   "vol": 67194946.92043,
-   "entry": 741.69,
-   "sl0": 738.72324,
-   "stop": 738.72324,
-   "tp": 747.6235200000001,
-   "be": 744.6567600000001,
-   "sl_pct": 0.4,
-   "lev": 10,
-   "opened": 1792539900000,
-   "last_seen": 1792550700000,
-   "be_moved": false
-  },
-  {
    "sym": "ZECUSDT",
    "side": "LONG",
    "chg": 12.761,
@@ -29,7 +13,7 @@
    "sl_pct": 2.0,
    "lev": 2.5,
    "opened": 1792542600000,
-   "last_seen": 1792550700000,
+   "last_seen": 1792553400000,
    "be_moved": false
   },
   {
@@ -45,7 +29,7 @@
    "sl_pct": 1.23,
    "lev": 4.0,
    "opened": 1792542600000,
-   "last_seen": 1792550700000,
+   "last_seen": 1792553400000,
    "be_moved": true
   },
   {
@@ -61,7 +45,7 @@
    "sl_pct": 2.91,
    "lev": 1.5,
    "opened": 1792542600000,
-   "last_seen": 1792550700000,
+   "last_seen": 1792553400000,
    "be_moved": false
   },
   {
@@ -77,14 +61,14 @@
    "sl_pct": 1.92,
    "lev": 2.5,
    "opened": 1792542600000,
-   "last_seen": 1792550700000,
+   "last_seen": 1792553400000,
    "be_moved": false
   }
  ],
  "day": "2026-10-21",
- "R": 0.26,
+ "R": -0.11,
  "trades": 10,
  "wins": 1,
- "losses": 2,
+ "losses": 3,
  "halted": true
 }
