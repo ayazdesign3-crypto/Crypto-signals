@@ -13,23 +13,7 @@
    "sl_pct": 0.4,
    "lev": 10,
    "opened": 1792626300000,
-   "last_seen": 1792629000000,
-   "be_moved": false
-  },
-  {
-   "sym": "ZROUSDT",
-   "side": "SHORT",
-   "chg": -2.531,
-   "vol": 9676148.04004,
-   "entry": 1.951,
-   "sl0": 1.9716142857142858,
-   "stop": 1.9716142857142858,
-   "tp": 1.9097714285714287,
-   "be": 1.9303857142857144,
-   "sl_pct": 1.06,
-   "lev": 4.5,
-   "opened": 1792626300000,
-   "last_seen": 1792629000000,
+   "last_seen": 1792630800000,
    "be_moved": false
   },
   {
@@ -45,7 +29,7 @@
    "sl_pct": 2.09,
    "lev": 2.0,
    "opened": 1792626300000,
-   "last_seen": 1792629000000,
+   "last_seen": 1792630800000,
    "be_moved": true
   },
   {
@@ -61,7 +45,7 @@
    "sl_pct": 1.09,
    "lev": 4.5,
    "opened": 1792629000000,
-   "last_seen": 1792629000000,
+   "last_seen": 1792630800000,
    "be_moved": false
   },
   {
@@ -77,7 +61,7 @@
    "sl_pct": 1.21,
    "lev": 4.0,
    "opened": 1792629000000,
-   "last_seen": 1792629000000,
+   "last_seen": 1792630800000,
    "be_moved": false
   },
   {
@@ -87,14 +71,14 @@
    "vol": 14186708.78432,
    "entry": 155.55,
    "sl0": 156.1722,
-   "stop": 156.1722,
+   "stop": 155.55,
    "tp": 154.30560000000003,
    "be": 154.92780000000002,
    "sl_pct": 0.4,
    "lev": 10,
    "opened": 1792629000000,
-   "last_seen": 1792629000000,
-   "be_moved": false
+   "last_seen": 1792630800000,
+   "be_moved": true
   },
   {
    "sym": "MITOUSDT",
@@ -109,7 +93,7 @@
    "sl_pct": 2.15,
    "lev": 2.0,
    "opened": 1792629000000,
-   "last_seen": 1792629000000,
+   "last_seen": 1792630800000,
    "be_moved": false
   },
   {
@@ -125,14 +109,14 @@
    "sl_pct": 2.79,
    "lev": 1.5,
    "opened": 1792629000000,
-   "last_seen": 1792629000000,
+   "last_seen": 1792630800000,
    "be_moved": false
   }
  ],
  "day": "2026-10-22",
- "R": 2.0,
+ "R": 1.0,
  "trades": 10,
  "wins": 1,
- "losses": 0,
- "halted": false
+ "losses": 1,
+ "halted": true
 }
