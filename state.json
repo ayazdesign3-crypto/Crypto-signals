@@ -1,22 +1,6 @@
 {
  "open": [
   {
-   "sym": "UUSDT",
-   "side": "LONG",
-   "chg": 0.01,
-   "vol": 27950457.4265,
-   "entry": 1.0006,
-   "sl0": 0.9965976,
-   "stop": 0.9965976,
-   "tp": 1.0086047999999999,
-   "be": 1.0046024,
-   "sl_pct": 0.4,
-   "lev": 10,
-   "opened": 1792626300000,
-   "last_seen": 1792639800000,
-   "be_moved": false
-  },
-  {
    "sym": "MITOUSDT",
    "side": "SHORT",
    "chg": -26.414,
@@ -29,14 +13,14 @@
    "sl_pct": 2.15,
    "lev": 2.0,
    "opened": 1792629000000,
-   "last_seen": 1792639800000,
+   "last_seen": 1792641600000,
    "be_moved": true
   }
  ],
  "day": "2026-10-22",
- "R": -2.0,
+ "R": -2.05,
  "trades": 10,
  "wins": 1,
- "losses": 4,
+ "losses": 5,
  "halted": true
 }
