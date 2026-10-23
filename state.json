@@ -1,22 +1,6 @@
 {
  "open": [
   {
-   "sym": "XAUTUSDT",
-   "side": "SHORT",
-   "chg": -2.35,
-   "vol": 72156262.457679,
-   "entry": 4030.01,
-   "sl0": 4046.13004,
-   "stop": 4030.01,
-   "tp": 3997.7699200000006,
-   "be": 4013.8899600000004,
-   "sl_pct": 0.4,
-   "lev": 10,
-   "opened": 1792712700000,
-   "last_seen": 1792719900000,
-   "be_moved": true
-  },
-  {
    "sym": "ALTUSDT",
    "side": "SHORT",
    "chg": -38.786,
@@ -29,7 +13,7 @@
    "sl_pct": 3.91,
    "lev": 1.0,
    "opened": 1792715400000,
-   "last_seen": 1792719900000,
+   "last_seen": 1792721700000,
    "be_moved": false
   },
   {
@@ -45,7 +29,7 @@
    "sl_pct": 1.4,
    "lev": 3.5,
    "opened": 1792715400000,
-   "last_seen": 1792719900000,
+   "last_seen": 1792721700000,
    "be_moved": false
   },
   {
@@ -61,14 +45,14 @@
    "sl_pct": 3.41,
    "lev": 1.0,
    "opened": 1792715400000,
-   "last_seen": 1792719900000,
+   "last_seen": 1792722600000,
    "be_moved": false
   }
  ],
  "day": "2026-10-23",
- "R": -3.0,
+ "R": -1.0,
  "trades": 10,
- "wins": 1,
+ "wins": 2,
  "losses": 5,
  "halted": true
 }
