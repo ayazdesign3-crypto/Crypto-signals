@@ -13,23 +13,7 @@
    "sl_pct": 0.4,
    "lev": 10,
    "opened": 1792712700000,
-   "last_seen": 1792715400000,
-   "be_moved": false
-  },
-  {
-   "sym": "CRVUSDT",
-   "side": "SHORT",
-   "chg": -9.552,
-   "vol": 5944674.25384,
-   "entry": 0.3637,
-   "sl0": 0.3651548,
-   "stop": 0.3651548,
-   "tp": 0.36079040000000007,
-   "be": 0.36224520000000004,
-   "sl_pct": 0.4,
-   "lev": 10,
-   "opened": 1792712700000,
-   "last_seen": 1792715400000,
+   "last_seen": 1792718100000,
    "be_moved": false
   },
   {
@@ -45,23 +29,7 @@
    "sl_pct": 3.91,
    "lev": 1.0,
    "opened": 1792715400000,
-   "last_seen": 1792715400000,
-   "be_moved": false
-  },
-  {
-   "sym": "ADAUSDT",
-   "side": "SHORT",
-   "chg": -6.015,
-   "vol": 21252005.77618,
-   "entry": 0.2121,
-   "sl0": 0.2129484,
-   "stop": 0.2129484,
-   "tp": 0.2104032,
-   "be": 0.2112516,
-   "sl_pct": 0.4,
-   "lev": 10,
-   "opened": 1792715400000,
-   "last_seen": 1792715400000,
+   "last_seen": 1792718100000,
    "be_moved": false
   },
   {
@@ -77,7 +45,7 @@
    "sl_pct": 1.4,
    "lev": 3.5,
    "opened": 1792715400000,
-   "last_seen": 1792715400000,
+   "last_seen": 1792718100000,
    "be_moved": false
   },
   {
@@ -93,7 +61,7 @@
    "sl_pct": 3.41,
    "lev": 1.0,
    "opened": 1792715400000,
-   "last_seen": 1792715400000,
+   "last_seen": 1792718100000,
    "be_moved": false
   },
   {
@@ -109,14 +77,14 @@
    "sl_pct": 0.78,
    "lev": 6.0,
    "opened": 1792715400000,
-   "last_seen": 1792715400000,
+   "last_seen": 1792718100000,
    "be_moved": false
   }
  ],
  "day": "2026-10-23",
- "R": 0.0,
+ "R": -2.0,
  "trades": 10,
  "wins": 1,
- "losses": 2,
- "halted": false
+ "losses": 4,
+ "halted": true
 }
