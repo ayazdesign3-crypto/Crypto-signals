@@ -13,24 +13,8 @@
    "sl_pct": 0.4,
    "lev": 10,
    "opened": 1793059200000,
-   "last_seen": 1793070000000,
+   "last_seen": 1793071800000,
    "be_moved": false
-  },
-  {
-   "sym": "BANKUSDT",
-   "side": "LONG",
-   "chg": 13.191,
-   "vol": 6378271.64448,
-   "entry": 0.0265,
-   "sl0": 0.025470714285714284,
-   "stop": 0.0265,
-   "tp": 0.02855857142857143,
-   "be": 0.027529285714285714,
-   "sl_pct": 3.88,
-   "lev": 1.0,
-   "opened": 1793062800000,
-   "last_seen": 1793070000000,
-   "be_moved": true
   },
   {
    "sym": "DASHUSDT",
@@ -45,14 +29,14 @@
    "sl_pct": 1.7,
    "lev": 2.5,
    "opened": 1793062800000,
-   "last_seen": 1793070000000,
+   "last_seen": 1793071800000,
    "be_moved": false
   }
  ],
  "day": "2026-10-27",
- "R": -5.83,
+ "R": -3.83,
  "trades": 10,
- "wins": 0,
+ "wins": 1,
  "losses": 6,
  "halted": true
 }
