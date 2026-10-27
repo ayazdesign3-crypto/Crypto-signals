@@ -1,22 +1,6 @@
 {
  "open": [
   {
-   "sym": "UUSDT",
-   "side": "LONG",
-   "chg": 0.02,
-   "vol": 32877441.9904,
-   "entry": 1.0006,
-   "sl0": 0.9965976,
-   "stop": 0.9965976,
-   "tp": 1.0086047999999999,
-   "be": 1.0046024,
-   "sl_pct": 0.4,
-   "lev": 10,
-   "opened": 1793059200000,
-   "last_seen": 1793071800000,
-   "be_moved": false
-  },
-  {
    "sym": "DASHUSDT",
    "side": "LONG",
    "chg": 5.712,
@@ -29,7 +13,7 @@
    "sl_pct": 1.7,
    "lev": 2.5,
    "opened": 1793062800000,
-   "last_seen": 1793071800000,
+   "last_seen": 1793073600000,
    "be_moved": false
   }
  ],
