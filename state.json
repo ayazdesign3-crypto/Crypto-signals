@@ -81,22 +81,6 @@
    "be_moved": false
   },
   {
-   "sym": "GOOGLBUSDT",
-   "side": "SHORT",
-   "chg": -9.679,
-   "vol": 29386788.15942,
-   "entry": 294.33,
-   "sl0": 296.54564285714287,
-   "stop": 294.33,
-   "tp": 289.8987142857142,
-   "be": 292.1143571428571,
-   "sl_pct": 0.75,
-   "lev": 6.5,
-   "opened": 1793235600000,
-   "last_seen": 1793239200000,
-   "be_moved": true
-  },
-  {
    "sym": "UUSDT",
    "side": "SHORT",
    "chg": -0.04,
@@ -109,7 +93,7 @@
    "sl_pct": 0.4,
    "lev": 10,
    "opened": 1793235600000,
-   "last_seen": 1793239200000,
+   "last_seen": 1793241900000,
    "be_moved": false
   }
  ],
