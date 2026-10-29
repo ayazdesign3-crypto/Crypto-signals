@@ -79,28 +79,12 @@
    "opened": 1793232000000,
    "last_seen": 1793232000000,
    "be_moved": false
-  },
-  {
-   "sym": "UUSDT",
-   "side": "SHORT",
-   "chg": -0.04,
-   "vol": 24280894.8071,
-   "entry": 1.0,
-   "sl0": 1.004,
-   "stop": 1.004,
-   "tp": 0.992,
-   "be": 0.996,
-   "sl_pct": 0.4,
-   "lev": 10,
-   "opened": 1793235600000,
-   "last_seen": 1793247300000,
-   "be_moved": false
   }
  ],
  "day": "2026-10-29",
- "R": 3.0,
+ "R": 2.98,
  "trades": 10,
  "wins": 2,
- "losses": 1,
+ "losses": 2,
  "halted": true
 }
