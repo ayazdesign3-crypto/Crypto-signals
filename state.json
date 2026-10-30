@@ -81,38 +81,6 @@
    "be_moved": false
   },
   {
-   "sym": "BNBUSDT",
-   "side": "SHORT",
-   "chg": -8.075,
-   "vol": 414939475.45007,
-   "entry": 698.46,
-   "sl0": 708.759,
-   "stop": 698.46,
-   "tp": 677.8620000000001,
-   "be": 688.1610000000001,
-   "sl_pct": 1.47,
-   "lev": 3.0,
-   "opened": 1793317500000,
-   "last_seen": 1793320200000,
-   "be_moved": true
-  },
-  {
-   "sym": "PEPEUSDT",
-   "side": "SHORT",
-   "chg": -10.63,
-   "vol": 226592554.57981366,
-   "entry": 4.56e-06,
-   "sl0": 4.708571428571429e-06,
-   "stop": 4.56e-06,
-   "tp": 4.262857142857143e-06,
-   "be": 4.411428571428572e-06,
-   "sl_pct": 3.26,
-   "lev": 1.5,
-   "opened": 1793317500000,
-   "last_seen": 1793320200000,
-   "be_moved": true
-  },
-  {
    "sym": "GOOGLBUSDT",
    "side": "SHORT",
    "chg": -5.402,
@@ -125,7 +93,7 @@
    "sl_pct": 1.03,
    "lev": 4.5,
    "opened": 1793320200000,
-   "last_seen": 1793320200000,
+   "last_seen": 1793323800000,
    "be_moved": false
   },
   {
@@ -141,7 +109,7 @@
    "sl_pct": 1.5,
    "lev": 3.0,
    "opened": 1793320200000,
-   "last_seen": 1793320200000,
+   "last_seen": 1793323800000,
    "be_moved": false
   },
   {
@@ -157,7 +125,7 @@
    "sl_pct": 1.15,
    "lev": 4.0,
    "opened": 1793320200000,
-   "last_seen": 1793320200000,
+   "last_seen": 1793323800000,
    "be_moved": false
   },
   {
@@ -173,7 +141,7 @@
    "sl_pct": 3.65,
    "lev": 1.0,
    "opened": 1793320200000,
-   "last_seen": 1793320200000,
+   "last_seen": 1793323800000,
    "be_moved": false
   },
   {
@@ -189,7 +157,7 @@
    "sl_pct": 1.43,
    "lev": 3.5,
    "opened": 1793320200000,
-   "last_seen": 1793320200000,
+   "last_seen": 1793323800000,
    "be_moved": false
   }
  ],
@@ -198,5 +166,5 @@
  "trades": 10,
  "wins": 1,
  "losses": 0,
- "halted": false
+ "halted": true
 }
