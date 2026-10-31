@@ -1,22 +1,6 @@
 {
  "open": [
   {
-   "sym": "QNTUSDT",
-   "side": "LONG",
-   "chg": 9.267,
-   "vol": 13973245.79997,
-   "entry": 197.02,
-   "sl0": 192.20785714285714,
-   "stop": 192.20785714285714,
-   "tp": 206.64428571428576,
-   "be": 201.83214285714288,
-   "sl_pct": 2.44,
-   "lev": 2.0,
-   "opened": 1793410200000,
-   "last_seen": 1793418300000,
-   "be_moved": false
-  },
-  {
    "sym": "XAUTUSDT",
    "side": "SHORT",
    "chg": -3.027,
@@ -29,14 +13,14 @@
    "sl_pct": 0.4,
    "lev": 10,
    "opened": 1793412900000,
-   "last_seen": 1793418300000,
+   "last_seen": 1793421000000,
    "be_moved": false
   }
  ],
  "day": "2026-10-31",
- "R": -3.05,
+ "R": -4.05,
  "trades": 10,
  "wins": 1,
- "losses": 6,
+ "losses": 7,
  "halted": true
 }
