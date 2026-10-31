@@ -1,22 +1,6 @@
 {
  "open": [
   {
-   "sym": "ONDOUSDT",
-   "side": "LONG",
-   "chg": 13.315,
-   "vol": 20522057.80608,
-   "entry": 0.4198,
-   "sl0": 0.41510214285714286,
-   "stop": 0.41510214285714286,
-   "tp": 0.4291957142857143,
-   "be": 0.42449785714285715,
-   "sl_pct": 1.12,
-   "lev": 4.0,
-   "opened": 1793406600000,
-   "last_seen": 1793412900000,
-   "be_moved": false
-  },
-  {
    "sym": "RUNEUSDT",
    "side": "LONG",
    "chg": 6.462,
@@ -29,24 +13,8 @@
    "sl_pct": 1.28,
    "lev": 3.5,
    "opened": 1793406600000,
-   "last_seen": 1793412900000,
+   "last_seen": 1793415600000,
    "be_moved": true
-  },
-  {
-   "sym": "UUSDT",
-   "side": "SHORT",
-   "chg": -0.01,
-   "vol": 26026597.206,
-   "entry": 1.0001,
-   "sl0": 1.0041004,
-   "stop": 1.0041004,
-   "tp": 0.9920992,
-   "be": 0.9960996,
-   "sl_pct": 0.4,
-   "lev": 10,
-   "opened": 1793410200000,
-   "last_seen": 1793412900000,
-   "be_moved": false
   },
   {
    "sym": "QNTUSDT",
@@ -61,7 +29,7 @@
    "sl_pct": 2.44,
    "lev": 2.0,
    "opened": 1793410200000,
-   "last_seen": 1793412900000,
+   "last_seen": 1793415600000,
    "be_moved": false
   },
   {
@@ -77,7 +45,7 @@
    "sl_pct": 0.4,
    "lev": 10,
    "opened": 1793412900000,
-   "last_seen": 1793412900000,
+   "last_seen": 1793415600000,
    "be_moved": false
   },
   {
@@ -93,14 +61,14 @@
    "sl_pct": 0.47,
    "lev": 10,
    "opened": 1793412900000,
-   "last_seen": 1793412900000,
+   "last_seen": 1793415600000,
    "be_moved": false
   }
  ],
  "day": "2026-10-31",
- "R": -1.0,
+ "R": -2.05,
  "trades": 10,
  "wins": 1,
- "losses": 3,
- "halted": false
+ "losses": 5,
+ "halted": true
 }
