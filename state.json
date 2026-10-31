@@ -1,26 +1,9 @@
 {
- "open": [
-  {
-   "sym": "XAUTUSDT",
-   "side": "SHORT",
-   "chg": -3.027,
-   "vol": 50037479.888478,
-   "entry": 3883.11,
-   "sl0": 3898.64244,
-   "stop": 3898.64244,
-   "tp": 3852.04512,
-   "be": 3867.57756,
-   "sl_pct": 0.4,
-   "lev": 10,
-   "opened": 1793412900000,
-   "last_seen": 1793425500000,
-   "be_moved": false
-  }
- ],
+ "open": [],
  "day": "2026-10-31",
- "R": -4.05,
+ "R": -3.96,
  "trades": 10,
- "wins": 1,
+ "wins": 2,
  "losses": 7,
  "halted": true
 }
