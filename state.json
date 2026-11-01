@@ -1,9 +1,42 @@
 {
- "open": [],
- "day": "2026-10-31",
- "R": -3.96,
- "trades": 10,
- "wins": 2,
- "losses": 7,
- "halted": true
+ "open": [
+  {
+   "sym": "RWUSDUSDT",
+   "side": "LONG",
+   "chg": 0.03,
+   "vol": 9750482.3734,
+   "entry": 1.0,
+   "sl0": 0.996,
+   "stop": 0.996,
+   "tp": 1.008,
+   "be": 1.004,
+   "sl_pct": 0.4,
+   "lev": 10,
+   "opened": 1793492100000,
+   "last_seen": 1793492100000,
+   "be_moved": false
+  },
+  {
+   "sym": "TAOUSDT",
+   "side": "SHORT",
+   "chg": -1.254,
+   "vol": 6819124.72561,
+   "entry": 236.7,
+   "sl0": 237.64679999999998,
+   "stop": 237.64679999999998,
+   "tp": 234.8064,
+   "be": 235.7532,
+   "sl_pct": 0.4,
+   "lev": 10,
+   "opened": 1793492100000,
+   "last_seen": 1793492100000,
+   "be_moved": false
+  }
+ ],
+ "day": "2026-11-01",
+ "R": 0.0,
+ "trades": 2,
+ "wins": 0,
+ "losses": 0,
+ "halted": false
 }
