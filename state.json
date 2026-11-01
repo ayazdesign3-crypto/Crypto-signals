@@ -13,7 +13,7 @@
    "sl_pct": 0.4,
    "lev": 10,
    "opened": 1793492100000,
-   "last_seen": 1793499300000,
+   "last_seen": 1793502000000,
    "be_moved": false
   },
   {
@@ -23,30 +23,14 @@
    "vol": 16542750.22599,
    "entry": 135.53,
    "sl0": 133.95128571428572,
-   "stop": 133.95128571428572,
+   "stop": 135.53,
    "tp": 138.68742857142857,
    "be": 137.10871428571429,
    "sl_pct": 1.16,
    "lev": 4.0,
    "opened": 1793496600000,
-   "last_seen": 1793499300000,
-   "be_moved": false
-  },
-  {
-   "sym": "AVAXUSDT",
-   "side": "SHORT",
-   "chg": -0.983,
-   "vol": 14232316.47238,
-   "entry": 8.56,
-   "sl0": 8.594240000000001,
-   "stop": 8.594240000000001,
-   "tp": 8.49152,
-   "be": 8.52576,
-   "sl_pct": 0.4,
-   "lev": 10,
-   "opened": 1793496600000,
-   "last_seen": 1793499300000,
-   "be_moved": false
+   "last_seen": 1793502000000,
+   "be_moved": true
   },
   {
    "sym": "ZECUSDT",
@@ -61,7 +45,7 @@
    "sl_pct": 1.01,
    "lev": 4.5,
    "opened": 1793499300000,
-   "last_seen": 1793499300000,
+   "last_seen": 1793502000000,
    "be_moved": false
   },
   {
@@ -77,7 +61,7 @@
    "sl_pct": 0.54,
    "lev": 9.0,
    "opened": 1793499300000,
-   "last_seen": 1793499300000,
+   "last_seen": 1793502000000,
    "be_moved": false
   },
   {
@@ -93,7 +77,7 @@
    "sl_pct": 0.4,
    "lev": 10,
    "opened": 1793499300000,
-   "last_seen": 1793499300000,
+   "last_seen": 1793502000000,
    "be_moved": false
   },
   {
@@ -103,14 +87,14 @@
    "vol": 27024342.454,
    "entry": 7.125,
    "sl0": 7.0965,
-   "stop": 7.0965,
+   "stop": 7.125,
    "tp": 7.182,
    "be": 7.1535,
    "sl_pct": 0.4,
    "lev": 10,
    "opened": 1793499300000,
-   "last_seen": 1793499300000,
-   "be_moved": false
+   "last_seen": 1793502000000,
+   "be_moved": true
   }
  ],
  "day": "2026-11-01",
@@ -118,5 +102,5 @@
  "trades": 10,
  "wins": 0,
  "losses": 1,
- "halted": false
+ "halted": true
 }
