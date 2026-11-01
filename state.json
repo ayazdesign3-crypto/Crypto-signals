@@ -1,22 +1,6 @@
 {
  "open": [
   {
-   "sym": "RWUSDUSDT",
-   "side": "LONG",
-   "chg": 0.03,
-   "vol": 9750482.3734,
-   "entry": 1.0,
-   "sl0": 0.996,
-   "stop": 0.996,
-   "tp": 1.008,
-   "be": 1.004,
-   "sl_pct": 0.4,
-   "lev": 10,
-   "opened": 1793492100000,
-   "last_seen": 1793505600000,
-   "be_moved": false
-  },
-  {
    "sym": "ZECUSDT",
    "side": "SHORT",
    "chg": -2.003,
@@ -29,7 +13,7 @@
    "sl_pct": 1.01,
    "lev": 4.5,
    "opened": 1793499300000,
-   "last_seen": 1793505600000,
+   "last_seen": 1793509200000,
    "be_moved": false
   },
   {
@@ -45,30 +29,14 @@
    "sl_pct": 0.54,
    "lev": 9.0,
    "opened": 1793499300000,
-   "last_seen": 1793505600000,
-   "be_moved": false
-  },
-  {
-   "sym": "BNBUSDT",
-   "side": "SHORT",
-   "chg": -0.241,
-   "vol": 47151639.31425,
-   "entry": 702.6,
-   "sl0": 705.4104,
-   "stop": 705.4104,
-   "tp": 696.9792000000001,
-   "be": 699.7896000000001,
-   "sl_pct": 0.4,
-   "lev": 10,
-   "opened": 1793499300000,
-   "last_seen": 1793505600000,
+   "last_seen": 1793509200000,
    "be_moved": false
   }
  ],
  "day": "2026-11-01",
- "R": 1.0,
+ "R": -0.02,
  "trades": 10,
  "wins": 1,
- "losses": 1,
+ "losses": 3,
  "halted": true
 }
