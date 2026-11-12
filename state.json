@@ -1,26 +1,9 @@
 {
- "open": [
-  {
-   "sym": "BNBUSDT",
-   "side": "SHORT",
-   "chg": -4.86,
-   "vol": 82745321.73076,
-   "entry": 655.29,
-   "sl0": 657.9838571428572,
-   "stop": 657.9838571428572,
-   "tp": 649.9022857142854,
-   "be": 652.5961428571427,
-   "sl_pct": 0.41,
-   "lev": 10,
-   "opened": 1794506400000,
-   "last_seen": 1794506400000,
-   "be_moved": false
-  }
- ],
+ "open": [],
  "day": "2026-11-12",
- "R": 2.03,
+ "R": 1.03,
  "trades": 10,
  "wins": 4,
- "losses": 4,
- "halted": false
+ "losses": 5,
+ "halted": true
 }
